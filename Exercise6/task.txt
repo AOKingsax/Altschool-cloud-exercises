@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+cd /home/vagrant/memory_logs
+
+touch meminfo.txt
+free >> meminfo.txt
+date >> meminfo.txt
+echo "___" >> meminfo.txt

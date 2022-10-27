@@ -1,0 +1,7 @@
+#! /usr/bin/bash
+
+path=/home/vagrant/memory_logs/meminfo.txt
+
+email=ezechinix@gmail.com
+
+echo "Here is my midnight report" | mutt -a ${path} -s "Midnight ram report" -- ${email} && sudo rm -f ${path}
