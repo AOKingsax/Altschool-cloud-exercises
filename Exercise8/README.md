@@ -14,4 +14,4 @@ What is the Network IP, number of hosts, range of IP addresses and broadcast IP 
 | Network IP          | 193.16.20.32                |
 | Range of IP address | 193.16.20.33 - 193.16.20.38 |
 | Broadcast IP        | 193.16.20.39                |
-|                     |                             |
+| Number of hosts     | 6                           |
