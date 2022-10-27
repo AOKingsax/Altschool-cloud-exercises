@@ -1,0 +1,2 @@
+origin	https://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@github.com/AOKingsax/Altschool-cloud-exercises.git (fetch)
+origin	https://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@github.com/AOKingsax/Altschool-cloud-exercises.git (push)

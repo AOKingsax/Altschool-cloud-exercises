@@ -1,0 +1,114 @@
+commit 108ed151cc944dbe53a37af49777b550fad021cf
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Thu Sep 8 01:31:55 2022 +0100
+
+    Content of /etc/apt/sources.list and the output of php -v command
+
+commit 20955d87c97eb5c30435596b6e09762878f6da0c
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Thu Sep 8 01:09:24 2022 +0100
+
+    Ten linux commands with embedded image showing their use
+
+commit 6d236dbd204946ec5f9e466c1ebafb51206fa7ff
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Thu Sep 8 00:36:15 2022 +0100
+
+    Delete Exercise Two directory
+
+commit f14b86f35cb0c2d03f95d8c3222c99351379ca3f
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 16:26:52 2022 +0100
+
+    Ten linux commands with embedded image showing their use
+
+commit 65b886952a95c87ac3485f74f36de9694ccbb25e
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 16:21:09 2022 +0100
+
+    Output of /etc/passwd, /etc/group, /etc/sudoers
+
+commit 51de5b25edac0d59c1bb1b1c6266090d7165320d
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Wed Sep 7 16:06:45 2022 +0100
+
+    Delete Exercise Two directory
+
+commit 2d05b38c065da0af4d2cc4f134691bdff908f38f
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 16:03:21 2022 +0100
+
+    Ten linux commands with embedded image showing their use
+
+commit 1137b31f804b17081fe3e44cda5ae54ab099cb03
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Wed Sep 7 15:58:39 2022 +0100
+
+    Delete Exercise One directory
+
+commit 142d4b1746149df6a74a6730da51128243a9c508
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 15:32:51 2022 +0100
+
+    Output of vagrantfile and ifconfig
+
+commit d1a378f6d9ef1934ab1d804f6b0c3ab3d6588298
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 15:14:01 2022 +0100
+
+    Ten linux commands with embedded image showing their use
+
+commit 9b5382d070de549af872b2ef5d8ac73d1db9dc58
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 14:56:11 2022 +0100
+
+    corrected the src picture path
+
+commit 04c2f7290feaca7258a0a9f5b144b825ffb14c0b
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Wed Sep 7 14:42:13 2022 +0100
+
+    Ten linux commands with embedded image showing its use
+
+commit 1dc735f363831d0b64fe9edee0ce91587b02c077
+Merge: 97c4c24 a772581
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Tue Sep 6 04:36:26 2022 +0100
+
+    Merge branch 'main' of https://github.com/AOKingsax/Altschool-cloud-exercises into main
+
+commit 97c4c241feff63c6b48886bbdb518ef8e3b33cee
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Tue Sep 6 04:33:51 2022 +0100
+
+    Ten other linux commands with example shown as embedded image
+
+commit a772581578dbed3156628e5194d9051f0f95aaca
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Tue Sep 6 03:14:41 2022 +0100
+
+    Create README.md
+
+commit 4c50ba2dece31cb847baae5c48e39bed7cce74f0
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Tue Sep 6 03:12:15 2022 +0100
+
+    Delete README.md
+
+commit b3cdc9bba075be9770b46a1bd1816f32b8e2e94e
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Tue Sep 6 03:01:54 2022 +0100
+
+    Update README.md
+
+commit c8576971a714d0a2dc86c4234dd275384ff2af1c
+Author: Amadi Okwesirieze <aokwesirieze@gmail.com>
+Date:   Tue Sep 6 02:24:51 2022 +0100
+
+    Output of Vagrantfile and ifconfig command
+
+commit db19c651d9cf5361019dba0b653cdd6ab97857a0
+Author: Okwesirieze Amadi <99332844+AOKingsax@users.noreply.github.com>
+Date:   Mon Sep 5 16:10:55 2022 +0100
+
+    Initial commit
