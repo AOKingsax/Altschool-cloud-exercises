@@ -9,7 +9,7 @@ Altschool Africa cloud engineering curriculum takes us through fundamentals like
 ⚫ Linux Deep Dive  
 ⚫ Linux Process Management  
 ⚫ Version Control (Git)  
-⚫ System D
+⚫ System D  
 ⚫ Bash Scripting  
 ⚫ Configuration Management-Ansible  
 ⚫ How the Internet Works (Networking, IP Addressing, IP addressing-Netmask)  
