@@ -1,5 +1,5 @@
 [per]
-master
+laravel-master
 
 [post]
-slave
+laravel-slave

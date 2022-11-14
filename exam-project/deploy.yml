@@ -1,6 +1,6 @@
 - name: deploy
   become: true
-  hosts: slave
+  hosts: laravel-slave
   roles:
     - setup
     - apache2
